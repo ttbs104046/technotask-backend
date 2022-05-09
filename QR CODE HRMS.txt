@@ -1,0 +1,8 @@
+system_type, operating_system, processor, disk_space, ram_space, have_broadband ,broadband_speed, broadband_plan
+
+HRMS:- QR CODE SCANNER
+
+DURG, BILAI, RAJNANDGAON, RAIPUR
+
+replace
+center->location
